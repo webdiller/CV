@@ -1,4 +1,4 @@
-# Evgeny Butkov / Буров Евгений
+# Evgeny Butkov / Бутков Евгений
 
 **Fullstack Developer** · Vladivostok · remote
 
